@@ -1,0 +1,20 @@
+h1 {
+    text-align: left;
+    font-size: 30px;
+}
+article {
+    display: inline-block;
+    width: 390px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #FF5A5F;
+    border-radius: 4px;
+}
+.house {
+    font-size: 30px;
+}
+.places {
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+}

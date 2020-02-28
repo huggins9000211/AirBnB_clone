@@ -1,0 +1,1 @@
+This is a implimantation of a static web page
